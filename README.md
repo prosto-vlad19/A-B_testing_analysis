@@ -41,13 +41,13 @@ This is user data for 7 full days of life (the installation day is considered da
 ## Structure of project
 ## Files and Modules and What They Do
 
-| Name                   | Description                                                                |
-|------------------------|----------------------------------------------------------------------------|
-| `./data/data.csv`      | Initial data                                                            |
-| `./data_proc`          | Folder containing supporting files.                                   |
-| `activity.ipynb`       | File containing code for analyzing a group of player activity metrics.|
-| `involvement.ipynb`    | File containing code for analyzing a group of player engagement metrics.      |
-| `revenue.ipynb`        | File containing code for analyzing a group of player profitability metrics.       |
-| `other_analysis.ipynb` | File containing code for additional analysis of test results. |
-| `report.pdf`           | A file containing a report on the analysis performed.                              |
+| Name                   | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| `./data/data.csv`      | Initial data                                                                |
+| `./data_proc`          | Folder containing supporting files.                                         |
+| `activity.ipynb`       | File containing code for analyzing a group of player activity metrics.      |
+| `involvement.ipynb`    | File containing code for analyzing a group of player engagement metrics.    |
+| `revenue.ipynb`        | File containing code for analyzing a group of player profitability metrics. |
+| `other_analysis.ipynb` | File containing code for additional analysis of test results.               |
+| `report.pdf`           | File containing a report on the analysis performed.                         |
 
